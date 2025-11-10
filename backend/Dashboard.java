@@ -3,6 +3,6 @@ class Dashboard {
 		System.out.println("Dashboard");  	
 		System.out.println("Menu");
 		System.out.println("1");
-		System.out.println("Pull Request");
+		System.out.println("Pull Request Part 2");
 	}  
 }  
